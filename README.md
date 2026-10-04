@@ -18,7 +18,7 @@ Created a page with a heading and a paragraph about the cafe. With media queries
 
 Created the "Why Coffee Lake?" section with three boxes (Fresh Coffee, In your university, Student Prices), using only CSS media queries and no Bootstrap classes. The container is a flex container with flex-wrap: wrap. Each box is 100% wide on mobile, so they are stacked, 50% wide on tablet, so two boxes are in a row and the third goes below, and 33.333% wide on desktop, so all three are side by side. I used box-sizing: border-box so the padding and border do not make the boxes wider than the set width.
 
-![Task 1](screenshots/task1_desktop.png)
+![Task 1](screenshots/task1.png)
 
 ## Task 2. Bootstrap Responsive Columns
 
@@ -30,7 +30,7 @@ Built the "Special Offers" section with three columns using the Bootstrap 12-col
 
 Created navigation bar with Bootstrap components. The logo of Coffee Lake is on the left and the links (Home, Menu, About, Contact) are on the right, pushed to the right side with ms-auto. The navbar uses navbar-expand-lg, so on screens wider than 992px the links are in one row, and on smaller screens they collapse into a hamburger button that opens and closes the menu on click. I also made the navbar stay at the top of the screen while scrolling with position: sticky.
 
-![Task 3p](screenshots/task3.png)
+![Task 3](screenshots/task3.png)
 
 ## Task 4. Responsive Cafe Page
 
